@@ -15,8 +15,8 @@
 // This file contains your configuration used to connect to Cloud IoT Core
 
 // WIFI
-const char* ssid     = "MiFibra-2898";
-const char* password = "45aahaA9";
+const char* ssid     = "XXXXXXXX";
+const char* password = "XXXXXXX";
 
 
 // Cloud iot details.
@@ -28,10 +28,10 @@ const char *device_id = "thermometer-1";
 */
 
 // Cloud iot details.
-const char *project_id = "gateway-demo-293708";
+const char *project_id = "XXXXXXX";
 const char *location = "europe-west1";
-const char *registry_id = "iotcore-registry";
-const char *device_id = "esp8266";
+const char *registry_id = "XXXXXX-registry";
+const char *device_id = "XXXXX";
 
 
 
